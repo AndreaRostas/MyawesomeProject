@@ -28,6 +28,7 @@ npm start
 ##Lizenz
 Dieses Projekt ist unter der MIT-Lizens lizensiert.
 
-$${\color{red}Red}$$
+$${\color{red}Dieser Text wird Rot angezeigt.}$$
 
-$${\color{green}Green}$$
+$${\color{green}Ich Liebe es  zu programmieren.} $$
+
