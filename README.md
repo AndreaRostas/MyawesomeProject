@@ -30,7 +30,4 @@ Dieses Projekt ist unter der MIT-Lizens lizensiert.
 
 $${\color{red}Dieser~Text~wird~Rot~angezeigt.}$$
 
-$${\color{green}Ich~Liebe~es~zu~programmieren.} $$
-
-
-gitcommit
+$${\color{green}Ich~Liebe~es~zu~programmieren.}$$
