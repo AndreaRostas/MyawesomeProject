@@ -23,7 +23,7 @@ npm start
 - Schnelle Performance
 
 ## Mitwirkende ✨
-- [@]AndreaRostas(https:/github.com/AndreaRostas)
+- [@AndreaRostas](https:/github.com/AndreaRostas)
 
 ##Lizenz
 Dieses Projekt ist unter der MIT-Lizens lizensiert.
