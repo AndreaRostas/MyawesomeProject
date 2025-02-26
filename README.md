@@ -1,7 +1,6 @@
 # My Awesome Project ❤️ 
 
-! [Markdownlogo] (mdlogo.jpeg
-)
+![alt text](mdlogo.jpeg)
 
 ##Dies ist ein beispiel für eine README-Datei in Markdown.Hier kannst du Informationen über dein Projekt, die Installation und die Nutzung bereitstellen.
 
