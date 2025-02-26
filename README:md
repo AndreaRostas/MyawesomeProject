@@ -1,30 +1,32 @@
-# My Awesome Project
+# My Awesome Project ❤️ 
 
 ! [Markdownlogo] (mdlogo.jpeg
 )
 
 ##Dies ist ein beispiel für eine README-Datei in Markdown.Hier kannst du Informationen über dein Projekt, die Installation und die Nutzung bereitstellen.
 
-# Installation
+# Installation   🔥
 
 ```sh
 git clone https://github.com/username/my-awesome-project.git
 cd my-awesome-project
 npm install
 ```
-## Nutzung
+## Nutzung ✅
 
 ```sh
 npm start
 ```
 
-### Funktionen
+### Funktionen 🎉
 - Einfache Installation
 - Schönes UI
 - Schnelle Performance
 
-## Mitwirkende
+## Mitwirkende ✨
 - [@username](https:/github.com/username)
 
 ##Lizenz
 Dieses Projekt ist unter der MIT-Lizens lizensiert.
+
+
